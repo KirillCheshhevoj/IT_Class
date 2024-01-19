@@ -1,0 +1,6 @@
+Вашингтон
+London
+Paris
+Oxford Street,13
+Moscow
+Sovetskaya,35
