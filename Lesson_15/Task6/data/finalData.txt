@@ -1,0 +1,10 @@
+Product Americano 1.8 3
+Discount10Product Syrup 2.5 2
+Discount25Product Latte 1.5 4
+Product Milk 1.2 2
+Discount10Product GreenTea 0.8 2
+Discount25Product BlackTea 0.7 5
+Discount25Product Coffee 2.8 4
+Discount10Product Tea 1.5 2
+Discount25Product Hot Dog 5.5 2
+The average cost of purchases with a discount of 25% = 5.94375

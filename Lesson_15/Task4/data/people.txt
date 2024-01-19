@@ -1,0 +1,6 @@
+Arthur 45 1750.5
+Arthur 45 1750.5
+Arthur 45 1750.5
+Charles 32 1000.0
+Sam 40 2500.5
+Tom 35 2000.0

@@ -1,0 +1,4 @@
+Employee Grisha 20 509.0
+Student Ira 25 7.0
+Student Vasya 21 5.8
+Employee Vitya 35 750.0

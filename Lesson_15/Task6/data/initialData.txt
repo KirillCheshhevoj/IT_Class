@@ -1,0 +1,6 @@
+Product Americano 1.8 3
+Discount10Product Syrup 2.5 2
+Discount25Product Latte 1.5 4
+Product Milk 1.2 2
+Discount10Product GreenTea 0.8 2
+Discount25Product BlackTea 0.7 5
