@@ -1,0 +1,22 @@
+[
+  {
+    "regNumber": 1,
+    "name": "Murzik",
+    "age": 2
+  },
+  {
+    "regNumber": 2,
+    "name": "Barsik",
+    "age": 3
+  },
+  {
+    "regNumber": 3,
+    "name": "Mashka",
+    "age": 1
+  },
+  {
+    "regNumber": 4,
+    "name": "Pushok",
+    "age": 5
+  }
+]
